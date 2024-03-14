@@ -1,4 +1,6 @@
-body{
+@charset "UTF-8";
+body
+{
   background-color: purple;
   color: yellow;
   font-size: 12pt ;
