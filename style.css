@@ -1,8 +1,11 @@
+<head> 
+<meta charset="UTF-8">
+<head/>
 body{
   background-color: white;
   color: black;
   font-size: 12pt ;
-  font-family:Noto-Sans-Khojki;
+  font-family:lobster;
 }
 h1{
   color: black;
