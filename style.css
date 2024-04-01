@@ -11,6 +11,13 @@ body{
 
 h1{
     color: Black;
+    font_size: 30pt;
+    
+}
+h2{
+    color: Black;
+    font_size: 30pt;
+    
 }
  a{
      text-decoration: none ; 
