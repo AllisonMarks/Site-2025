@@ -20,6 +20,16 @@ h1
     text-align: center;
 }
 
+h2
+{   
+    background-image: linear-gradient(270deg, gray, white );
+    background-color: aqua;
+    color: black;
+    font-size: 45pt;
+    font-family:Arial;
+    text-align: center;
+}
+
 p
 { 
  color:red;
@@ -27,6 +37,7 @@ p
  font-family: Arial;
  text-align: center;
 }
+
 p2
 {
   color:blue;
@@ -34,5 +45,22 @@ p2
  font-family: verdana;
  text-align: center; 
 }
+
+p3
+{ 
+ color:red;
+ font-Size 16pt;
+ font-family: Arial;
+ text-align: center;
+}
+
+p4
+{
+  color:blue;
+ font-Size 20pt;
+ font-family: verdana;
+ text-align: center; 
+}
+
 
 } 
